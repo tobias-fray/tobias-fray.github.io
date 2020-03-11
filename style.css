@@ -1,3 +1,7 @@
+body {
+  font-family: "Arial";
+}
+
 .sidenav {
 	height: 100%;
 	width: 200px;
@@ -13,11 +17,15 @@
 .sidenav a {
 	padding: 6px 6px 8px 20px;
 	text-decoration: none;
-	font-size: 25px;
+	font-size: 20px;
 	color: white;
 	display: block;
 }
 
 .sidenav a:hover {
 	cursor: pointer;
+}
+
+.main {
+	margin-left: 200px;
 }
