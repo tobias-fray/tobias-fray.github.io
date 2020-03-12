@@ -28,11 +28,12 @@ body {
 
 .main {
 	margin-left: 200px;
+	padding-bottom: 30px;
 }
 
 .codeC {
 	border: 3px;
-	border-style: solid;
+	border-style: none;
 	background-color: grey;
 	padding: 20px;
 }
